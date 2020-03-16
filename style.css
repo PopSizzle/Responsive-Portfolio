@@ -2,3 +2,8 @@
     text-decoration: none;
     color: black;
 }
+
+.no-margin {
+    margin: 0 0 0 0;
+    padding:0;
+}
