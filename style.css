@@ -7,3 +7,12 @@
     margin: 0 0 0 0;
     padding:0;
 }
+
+.card-img-top {
+    float:left;
+    width: 200px;
+}
+
+.card-text{
+    text-align: justify;
+}
