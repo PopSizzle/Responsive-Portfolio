@@ -16,3 +16,13 @@
 .card-text{
     text-align: justify;
 }
+
+@media screen and (max-width:768px) {
+    img {
+        width:100%;
+    }
+    .container {
+        max-width:100%;
+        width: 100%;
+    }
+
