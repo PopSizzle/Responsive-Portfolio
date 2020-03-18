@@ -4,7 +4,7 @@ This project was about creating a website to display our portfolio. The website 
 
 ## Utilization
 
-This portfolio can be used as a way to introduce myself, showcase work I have done during this class, and also as a method for people to contact me. It will be a constantly changing site, but the framework is there for me to continue this project as an ever-evolving introduction to myself as a computer programmer.
+This portfolio can be used as a way to introduce myself, showcase work I have done during this class, and also as a method for people to contact me. It will be a constantly changing site, but the framework is there for me to continue this project as an ever-evolving introduction to myself as a computer programmer. It's necessary in today's world to have a portfolio that can both be accessed and look good on all media formats.
 
 ## Built With
 
