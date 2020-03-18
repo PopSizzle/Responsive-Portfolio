@@ -8,6 +8,9 @@
     padding:0;
 }
 
+.card {
+    float: left;
+}
 .card-img-top {
     float:left;
     width: 200px;
